@@ -1,7 +1,5 @@
-This repository is no longer being actively maintained, and the content has
-been removed. Please use the repository history to access the previous content.
-We are not currently executing or developing tests for add-ons in this
-repository. You can find the new UI test suite for add-ons that in the
-[addons-server](https://github.com/mozilla/addons-server/tree/master/tests/ui)
-repository, and can discover more in the project's official
-[documentation](https://addons-server.readthedocs.io/en/latest/index.html)
+This code and its associated production web page are included in the Mozilla’s web and services bug bounty program. If you find a security vulnerability, please submit it via the process outlined in the program and FAQ pages. Further technical details about this application are available from the Bug Bounty Onramp page.
+
+Please submit all security-related bugs through Bugzilla using the web security bug form. Never submit security-related bugs through a Github Issue or by email.
+
+
